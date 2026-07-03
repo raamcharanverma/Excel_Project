@@ -1,4 +1,4 @@
-# 📊 Sales / Diwali Data Analysis Project
+# 📊 Sales Dashboard Data Analysis Project
 
 ## 🔍 Overview
 
